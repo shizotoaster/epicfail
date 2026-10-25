@@ -1,0 +1,12 @@
+{
+    "assets": [{
+        "id": 532018342,
+        "name": "live_StoreVersionsFile.txt",
+        "hash": "1bf6e69c18341244d990250bf5aa3ce0",
+        "url": "https://raw.githubusercontent.com/shizotoaster/epicfail/refs/heads/main/responses/ios/1.4.0/live_StoreVersionsFile.txt",
+        "modified": 1533903388169,
+        "size": 5,
+        "note": ""
+    }],
+    "failedAssets": []
+}
