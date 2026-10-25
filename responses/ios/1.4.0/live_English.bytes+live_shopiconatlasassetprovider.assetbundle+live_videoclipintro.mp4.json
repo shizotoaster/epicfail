@@ -1,0 +1,29 @@
+{
+    "assets": [
+        {
+            "id": 271833934,
+            "name": "live_English.bytes",
+            "hash": "028d2d95bac5a386dd0ba1051678cd6f",
+            "url": "https://assets-cloud.rovio.com/apdrive/Gold/iOS_1-4-0/271833934_live_English.bytes",
+            "modified": 1458745728,
+            "size": 104942
+        },
+        {
+            "id": 301176669,
+            "name": "live_shopiconatlasassetprovider.assetbundle",
+            "hash": "2dc2dc6e38caac6229525b11f005e738",
+            "url": "https://assets-cloud.rovio.com/apdrive/Gold/iOS_1-4-0/301176669_live_shopiconatlasassetprovider.assetbundle",
+            "modified": 1458745728,
+            "size": 446936
+        },
+        {
+            "id": 1579833031,
+            "name": "live_videoclipintro.mp4",
+            "hash": "1ea4f8c539a2c90ee1b33c40ae59b568",
+            "url": "https://assets-cloud.rovio.com/apdrive/Gold/iOS_allVersions/1579833031_live_videoclipintro.mp4",
+            "modified": 1458745728,
+            "size": 5066331
+        }
+    ],
+    "failedAssets": []
+}
